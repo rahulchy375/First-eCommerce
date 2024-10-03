@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 499.99,
+        "stock": 50,
+        "description": "powerful laptop with a quad-core i5 processor, 8GB RAC, 256GB SSD and a15-inch FHD display.",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":2,
+        "name":"iPhone X",
+        "category": "Mobile",
+        "brand": "demoBrand",
+        "price": 799.99,
+        "stock": 21,
+        "description": "Features 5.8″ display, Apple A11 Bionic chipset, Dual: 12 MP (f/1.8, 28mm, 1.22µm) + 12 MP primary camera.",
+        "image": "../public/iphoneX.png"
+    },
+    {
+        "id":3,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 699.99,
+        "stock": 30,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":4,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 899.99,
+        "stock": 10,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":5,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 399.99,
+        "stock": 45,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":6,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 999.99,
+        "stock": 26,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":7,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 299.99,
+        "stock": 40,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    },
+    {
+        "id":8,
+        "name":"Laptop",
+        "category": "Computers",
+        "brand": "demoBrand",
+        "price": 599.99,
+        "stock": 12,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, iure?",
+        "image": "../public/laptop4.webp"
+    }
+]
